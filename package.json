@@ -1,0 +1,20 @@
+{
+  "name": "iris-twitter",
+  "version": "0.0.1",
+  "author": {
+    "name": "ASPECTRON Inc.",
+    "email": "info@aspectron.com"
+  },
+  "description": "IRIS twitter Library",
+  "main": "iris-twitter.js",
+  "scripts": {
+  },
+  "files": [
+    "iris-twitter.js",
+    "README.md"
+  ],
+  "dependencies": {
+    "underscore": "*",
+    "twitter":"*"
+  }
+}
